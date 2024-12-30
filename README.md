@@ -13,3 +13,11 @@ A Python-based application that uses real-time hand gesture recognition to contr
    ```bash
    git clone https://github.com/ItsTejasongithub/CursorByGestures.git
    cd CursorByGestures
+
+2. Install the dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+3. Run the main application:
+	```bash
+	python main.py
