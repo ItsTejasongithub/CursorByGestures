@@ -11,5 +11,5 @@ A Python-based application that uses real-time hand gesture recognition to contr
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/TejasEmbeddedEngg/CursorByGestures.git
+   git clone https://github.com/ItsTejasongithub/CursorByGestures.git
    cd CursorByGestures
